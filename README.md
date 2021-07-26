@@ -58,4 +58,4 @@ In addition, a multine chart was created in order to visualize better the trend 
 Base on the data analysed and in the visualizations created, i could give the next recommendations:
 * There is a very high rides to driver ratio in *Urban* cities, which is probably causing a decrease in the fare per ride price by the supply and demand law, so it will be better to redistribute their drivers in different city types to regulated the fare.
 * The average fare per ride and average fare per driver in *Rural* cities is much higher than in the other types, which could mean that the drivers are taking longer trips and that there is a smaller supply than the demand of rides, that increases the prices and discourages possible clients, so a redistribution of drivers or a cap fare should be considered to make a ride in this zones more affordable.
-* 
+* Decrease the number of drivers in "Urban" cities and increase the average fare per driver as a result of having an equilibrium in the supply-demand law.
